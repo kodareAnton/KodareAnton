@@ -1,8 +1,10 @@
 ### Anton Torkkeli
 
-Hejsan! :) Jag är en studerande kodare och har ett stor intresse för datorer. Är ny inom kodning men lär mig väldigt snabbt då jag finner det roligt.
+Hejsan! =) Jag är en studerande kodare och har ett stor intresse för datorer. Är ny inom kodning men lär mig väldigt snabbt då jag finner det roligt.
 
-Mycket innan i mitt liv har jag jobbat inom service och vård & omsorg. 
+<h3>Mycket innan i mitt liv har jag jobbat inom service och vård & omsorg. </h3>
+
+
 
 <!--
 **kodareAnton/KodareAnton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

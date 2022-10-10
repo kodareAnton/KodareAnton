@@ -4,9 +4,6 @@ Hejsan! =) Jag är en studerande kodare och har ett stor intresse för datorer. 
 
 Mycket innan i mitt liv har jag jobbat inom service och vård & omsorg.
 
-<h1 align="center">Hi 👋, I'm aaaaaa</h1>
-<h3 align="center">Front End</h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

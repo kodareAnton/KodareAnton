@@ -1,10 +1,13 @@
 <h1> Anton Torkkeli </h1>
 
+<div style="margin-left: 5px">
 <p> Kolla mitt CV: https://kodareanton.github.io/AntonCV/ </p>
 
 Hejsan! =) Jag är en studerande kodare och har ett stor intresse för datorer. Är ny inom kodning men lär mig väldigt snabbt då jag finner det roligt.
 
 Mycket innan i mitt liv har jag jobbat inom service och vård & omsorg.
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>

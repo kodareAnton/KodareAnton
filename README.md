@@ -1,7 +1,7 @@
 <h1> Anton Torkkeli </h1>
 
 <div style="margin-left: 5px;">
-<p> Check out my latest project i have done about patchnotes!<br/>
+<p> Check out my latest project I have done about patchnotes!<br/>
   in react: <a>https://patch-notes-react.vercel.app/</a><br/>
   in angular: <a>https://patch-notes-angular.vercel.app/</a>
 </p>

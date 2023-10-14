@@ -2,8 +2,8 @@
 
 <div style="margin-left: 5px;">
 <p> Check out my latest project I have done about patchnotes!<br/>
-  in react: <a>https://patch-notes-react.vercel.app/</a><br/>
-  in angular: <a>https://patch-notes-angular.vercel.app/</a>
+  In react: <a>https://patch-notes-react.vercel.app/</a><br/>
+  In angular: <a>https://patch-notes-angular.vercel.app/</a>
 </p>
 
 
